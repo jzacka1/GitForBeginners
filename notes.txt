@@ -9,3 +9,5 @@ This is another commit for you, man!
 This is it!
 
 Here comes some more!
+
+New branch is added.
